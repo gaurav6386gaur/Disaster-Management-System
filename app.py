@@ -297,7 +297,7 @@ elif main_page == "About":
                 <li>Automated disaster alerts</li>
             </ul>
             <blockquote>
-                This project was built with support from OpenAI's ChatGPT Plus and the Streamlit community.
+                This project was built with support from Streamlit community.
             </blockquote>
         </div>
                 """, unsafe_allow_html=True )
