@@ -1,0 +1,8 @@
+,precision,recall,f1-score,support
+Earthquake,1.0,1.0,1.0,30.0
+Fire,1.0,1.0,1.0,30.0
+Flood,1.0,1.0,1.0,30.0
+No Disaster,1.0,1.0,1.0,30.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,120.0
+weighted avg,1.0,1.0,1.0,120.0
